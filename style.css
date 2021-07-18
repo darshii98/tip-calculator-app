@@ -87,6 +87,7 @@ input {
   font-weight: 700;
   color: var(--primary-cyan-dkr);
   border: 2px solid var(--primary-cyan-gray-ltr);
+  padding-right: 0.5rem;
 }
 
 input:focus {
